@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PictureLoading</string>
+    <string name="main_btn_load">load</string>
+</resources>
